@@ -1,0 +1,12 @@
+{
+  "name": "toshu-chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A neon-futuristic AI chatbot powered by the Gemini API",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
